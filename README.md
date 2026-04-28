@@ -40,8 +40,13 @@ Each student is stored as a dictionary:
 ```python
 {
     "id": "S001",
-    "name": "Nguyen Van A",
+    "name": "Nguyen Van An",
     "score": 8.5
+},
+{
+    "id": "S002",
+    "name": "Tran Thi Binh"
+    "score": 7.0
 }
 ```
 
@@ -49,8 +54,8 @@ All students are stored in a list:
 
 ```python
 students = [
-    {"id": "S001", "name": "Nguyen Van A", "score": 8.5},
-    {"id": "S002", "name": "Tran Thi B", "score": 7.0}
+    {"id": "S001", "name": "Nguyen Van An", "score": 8.5},
+    {"id": "S002", "name": "Tran Thi Binh", "score": 7.0}
 ]
 ```
 
