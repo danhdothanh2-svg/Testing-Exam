@@ -1,0 +1,27 @@
+[
+    {
+        "id": "S001",
+        "name": "Nguyen Van An",
+        "score": 8.5
+    },
+    {
+        "id": "S002",
+        "name": "Tran Thi Binh",
+        "score": 7.2
+    },
+    {
+        "id": "S003",
+        "name": "Le Van Cao",
+        "score": 9.0
+    },
+    {
+        "id": "S004",
+        "name": "Pham Thi Dung",
+        "score": 6.8
+    },
+    {
+        "id": "S005",
+        "name": "Hoang Van Em",
+        "score": 5.5
+    }
+]
