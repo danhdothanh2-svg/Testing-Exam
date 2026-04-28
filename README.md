@@ -72,7 +72,7 @@ students = [
 
 ```
 STUDENT-SCORE-MANAGEMENT/
-│-- app.py
+│-- main.py
 │-- students.txt
 │-- students.json
 │-- README.md
@@ -80,7 +80,7 @@ STUDENT-SCORE-MANAGEMENT/
 
 | File          | Description                        |
 | ------------- | ---------------------------------- |
-| app.py        | Main program source code           |
+| main.py        | Main program source code           |
 | students.txt  | Stores student data in text format |
 | students.json | Stores student data in JSON format |
 | README.md     | Project documentation              |
