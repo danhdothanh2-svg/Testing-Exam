@@ -324,11 +324,9 @@ python app.py
 
 ## 14. Student Information
 
-* **Student Name:** [Your Name]
-* **Student ID:** [Your ID]
-* **Class:** [Your Class]
+* **Student Name:** Đỗ Thanh Danh
+* **Student ID:** 24S7040004
+* **Class:** Tin 2E
 * **Course:** Programming Methods 1
-* **Instructor:** [Instructor Name]
-* **University:** [Your University]
 
 ---
